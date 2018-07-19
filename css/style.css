@@ -8,18 +8,6 @@
 
 /*////////// Global Styles //////////*/
 
-h1 {
-  font-family: 'Baskerville', serif;
-}
-
-h2 {
-  
-}
-
-p {
-  
-}
-
 body {
 	background: #F3EBE9;
 	font-size: 100%;
@@ -32,6 +20,20 @@ body {
 	background: #fff;
 	padding: 0 45px 20px;
 }
+
+h1 {
+  font-family: 'Baskerville', serif;
+}
+
+h2 {
+  
+}
+
+p {
+  
+}
+
+
 
 /* Write all remaining styles here */
 
