@@ -47,12 +47,10 @@ footer {
 
 /*////////// Section Styles //////////*/
 
-header a {
+header a:link, header a:visited {
   text-decoration: none;
 }
-header a: {
-  text-decoration: none;
-}
+
 header a:hover{
   color: rgb(111,127,122);
 }
