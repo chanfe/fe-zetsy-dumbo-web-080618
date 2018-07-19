@@ -44,5 +44,6 @@ p {
 /*////////// Section Styles //////////*/
 
 #about img {
-  
+  padding: 1px;
+  border:#555;
 }
