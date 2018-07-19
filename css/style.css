@@ -50,6 +50,9 @@ footer {
 header a {
   
 }
+header a:hover{
+  
+}
 
 #about img {
   border: 5px solid rgb(111,127,122);
