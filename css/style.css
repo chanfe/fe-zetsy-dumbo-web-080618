@@ -58,12 +58,13 @@ header a:hover{
 }
 
 #about a:link, #about a:visited {
-  color: rgb(152,173,166);
+  color: #1783bb;
   text-decoration: none;
 }
 
 #about a:hover{
-  color: rgb(111,127,122);
+  color: #1783bb;
+  text-decoration: underline;
 }
 
 #about img {
@@ -79,4 +80,5 @@ header a:hover{
 rgb(152,173,166) title color/ everything else color
 rgb(111,127,122) dark greyish/hover?
 rgb(152,173,166) light grayish
+#1783bb link color for learn more
 */
