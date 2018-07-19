@@ -55,7 +55,7 @@ header a:link, header a:visited {
 }
 
 header a:hover{
-  color: LightGray;
+  color: gray;
 }
 
 #about img {
