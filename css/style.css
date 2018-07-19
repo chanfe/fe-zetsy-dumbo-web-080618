@@ -55,7 +55,7 @@ header a:link, header a:visited {
 }
 
 header a:hover{
-  color: gray;
+  color: rgb(111,127,122);
 }
 
 #about img {
@@ -86,7 +86,7 @@ header a:hover{
 
 /* color used
 rgb(152,173,166) title color/ everything else color
-rgb(111,127,122) greyish/hover?
+rgb(111,127,122) greyish/hover title?
 rgb(152,173,166) light grayish
 #1783bb link color for learn more
 */
