@@ -8,6 +8,10 @@
 
 /*////////// Global Styles //////////*/
 
+h1 {
+  
+}
+
 body {
 	background: #F3EBE9;
 	font-size: 100%;
@@ -22,3 +26,5 @@ body {
 }
 
 /* Write all remaining styles here */
+
+/*////////// Section Styles //////////*/
