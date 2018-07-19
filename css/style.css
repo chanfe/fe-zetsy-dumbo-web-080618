@@ -57,6 +57,10 @@ header a:hover{
   color: rgb(111,127,122);
 }
 
+#about img {
+  border: 5px solid rgb(152,173,166);
+}
+
 #about a:link, #about a:visited {
   color: #1783bb;
   text-decoration: none;
@@ -67,8 +71,8 @@ header a:hover{
   text-decoration: underline;
 }
 
-#about img {
-  border: 5px solid rgb(152,173,166);
+#press img{
+  border:1px solid rgb(152,173,166);
 }
 
 #copyright {
