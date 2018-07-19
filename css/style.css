@@ -38,7 +38,9 @@ p {
   color: #555;
 }
 
-
+footer {
+  
+}
 
 /* Write all remaining styles here */
 
@@ -47,3 +49,5 @@ p {
 #about img {
   border: 5px solid rgb(111,127,122);
 }
+
+
