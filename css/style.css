@@ -39,7 +39,8 @@ p {
 }
 
 footer {
-  align-content: 
+  text-align: right;
+  color:#fff;
 }
 
 /* Write all remaining styles here */
