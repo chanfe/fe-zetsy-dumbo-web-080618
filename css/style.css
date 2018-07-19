@@ -9,8 +9,15 @@
 /*////////// Global Styles //////////*/
 
 h1 {
-  
   font-family: 'Baskerville', serif;
+}
+
+h2 {
+  
+}
+
+p {
+  
 }
 
 body {
@@ -29,3 +36,5 @@ body {
 /* Write all remaining styles here */
 
 /*////////// Section Styles //////////*/
+
+
