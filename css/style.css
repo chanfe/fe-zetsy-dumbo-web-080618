@@ -48,6 +48,7 @@ footer {
 /*////////// Section Styles //////////*/
 
 header a:link, header a:visited {
+  color: rgb(152,173,166);
   text-decoration: none;
 }
 
